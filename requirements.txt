@@ -1,0 +1,10 @@
+django
+requests
+mysql-python
+south
+pytz
+django-debug-toolbar
+unipath
+ipython
+beautifulsoup4
+html5lib
